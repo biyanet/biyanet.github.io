@@ -1,6 +1,6 @@
 ---
 title: Contact
-author: Daja
+author: biyanet
 date: 2024-12-26
 category: Jekyll
 layout: post
